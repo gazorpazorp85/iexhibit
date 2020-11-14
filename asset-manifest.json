@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/iexhibit/static/css/main.724b9ebf.chunk.css",
+    "main.js": "/iexhibit/static/js/main.73d4ea27.chunk.js",
+    "main.js.map": "/iexhibit/static/js/main.73d4ea27.chunk.js.map",
+    "runtime-main.js": "/iexhibit/static/js/runtime-main.198c0ff5.js",
+    "runtime-main.js.map": "/iexhibit/static/js/runtime-main.198c0ff5.js.map",
+    "static/js/2.8261d0a9.chunk.js": "/iexhibit/static/js/2.8261d0a9.chunk.js",
+    "static/js/2.8261d0a9.chunk.js.map": "/iexhibit/static/js/2.8261d0a9.chunk.js.map",
+    "index.html": "/iexhibit/index.html",
+    "precache-manifest.3f9382ca006d69fbfc4902ad9e29e26f.js": "/iexhibit/precache-manifest.3f9382ca006d69fbfc4902ad9e29e26f.js",
+    "service-worker.js": "/iexhibit/service-worker.js",
+    "static/css/main.724b9ebf.chunk.css.map": "/iexhibit/static/css/main.724b9ebf.chunk.css.map",
+    "static/js/2.8261d0a9.chunk.js.LICENSE.txt": "/iexhibit/static/js/2.8261d0a9.chunk.js.LICENSE.txt",
+    "static/media/global.scss": "/iexhibit/static/media/Assistant-Regular.e2b46dd6.ttf",
+    "static/media/not_found.svg": "/iexhibit/static/media/not_found.bbd6c834.svg",
+    "static/media/under_construction.svg": "/iexhibit/static/media/under_construction.1eb615da.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.198c0ff5.js",
+    "static/js/2.8261d0a9.chunk.js",
+    "static/css/main.724b9ebf.chunk.css",
+    "static/js/main.73d4ea27.chunk.js"
+  ]
+}
